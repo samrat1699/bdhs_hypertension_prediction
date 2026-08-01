@@ -1,0 +1,32 @@
+Variable,Description
+hypertension,Hypertension outcome
+sbp_final,Final systolic blood pressure
+dbp_final,Final diastolic blood pressure
+age,Age in years
+age_group,Age category
+sex,Sex
+education_level,Education level
+marital_status,Marital status
+residence_type,Urban/rural residence
+division,Administrative division
+wealth_index,Wealth index
+BMI,Body mass index
+BMI_category,BMI category
+glucose,Blood glucose
+diabetes,Diabetes status
+prediabetes,Prediabetes status
+household_size,Household size
+sleeping_rooms,Sleeping rooms
+crowding_index,Crowding index
+electricity,Electricity availability
+improved_water,Improved drinking water
+improved_toilet,Improved sanitation
+clean_cooking_fuel,Clean cooking fuel
+floor_material,Floor material
+wall_material,Wall material
+roof_material,Roof material
+mobile_phone,Mobile phone ownership
+internet_use,Internet use
+sample_weight,Survey sample weight
+cluster_id,Primary sampling unit
+strata_id,Sampling strata
